@@ -14,6 +14,12 @@ Animation timestep, geometry, alpha blending, layered rendering.
 
 Python / Pygame
 
+## Preview
+
+The actual Pygame window running its layered particle animation on macOS.
+
+![Particle layers](docs/screenshots/particle-layers.png)
+
 ## Getting Started
 
 Requires Python and Pygame. In a virtual environment, install Pygame with `python -m pip install pygame`, then run `python particle.py`. The program opens a fullscreen display. Use the source-defined exit control (Escape or window close).
